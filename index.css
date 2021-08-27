@@ -23,7 +23,7 @@
     width: 10rem;
     border-radius: 50px;
 }
-ul 
+.nav-list 
 {
     list-style-type: none;
     display: flex;
@@ -36,6 +36,12 @@ div
     width: 600px;
     border: chartreuse;
 }
+li{
+    color: white;
+}
+h3{
+    color: white;
+}
 h2
 {
     position: relative;
@@ -45,6 +51,15 @@ h2
     color: #fff;
     z-index: 1;
     overflow: hidden;
+}
+#containers{
+    
+    
+}
+.service-desc {
+    height: 400px;
+    width: 500px;
+    border: 3em blue;
 }
 h2:before
 {content: '';
