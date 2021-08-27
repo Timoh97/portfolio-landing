@@ -3,3 +3,91 @@
     background-repeat: no-repeat;
     background-size: cover;
 } */
+
+#pic1 
+{ float: right;
+    height: 600px; ;
+    width: 600px;
+    clip-path: circle();
+}
+.desc {
+    margin-left: 10em;
+    top: 200px;
+    left: 10px;
+}
+.Hire-me
+ { color: white;
+    font-size: xx-large;
+    background: green;
+    height: 1.5em;
+    width: 10rem;
+    border-radius: 50px;
+}
+ul 
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    position: static;
+}
+div 
+{
+    height: 350px;
+    width: 600px;
+    border: chartreuse;
+}
+h2
+{
+    position: relative;
+    margin: 20px 0 0;
+    font-size: 2em;
+    font-weight: 900;
+    color: #fff;
+    z-index: 1;
+    overflow: hidden;
+}
+h2:before
+{content: '';
+    position: absolute;
+    left: 0;
+    width: 120%;
+    height: 100%;
+    background: linear-gradient(90deg,transparent 0%,#000 5%,#000 100%);
+    animation: animate 5.5s linear forwards;
+    animation-delay: 2s;
+}
+@keyframes animate{
+    0% {
+        left: 110%;
+    }
+    100% {
+        left: -20%;
+    }
+}
+/* video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 2;
+    pointer-events: none;
+    mix-blend-mode: screen;
+} */
+h2 span
+{
+    color: #ff022c;
+}
+
+ li,p 
+ {
+    color: white;
+} 
+p
+{
+    font-size: xx-large;
+}
+* {
+    background-color: rgb(24, 21, 21);
+}
