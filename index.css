@@ -48,24 +48,33 @@ h2 {
 }
 
 #service-desc {
-    height: 350px;
-    width: 450px;
+    height: 330px;
+    width: 400px;
     border: 3px solid white;
     list-style-type: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
 }
 
 #math-description {
-    height: 350px;
-    width: 450px;
+    height: 330px;
+    width: 400px;
     border: 3px solid white;
     list-style-type: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
 }
 
 #service-description {
-    height: 350px;
-    width: 450px;
+    height: 330px;
+    width: 400px;
     border: 3px solid white;
     list-style-type: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
 }
 
 .service-list {
@@ -74,6 +83,28 @@ h2 {
 
 div>h3 {
     font-size: x-large;
+}
+
+.services {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+#projects{
+    border: 2px solid white;
+}
+
+#clients {
+border: 2px solid white;
+}
+
+#team-members {
+    border: 2px solid white;
+}
+
+#awards {
+    border: 2px solid white;
 }
 /* * {
     background-image: url(https://images.unsplash.com/photo-1577375729078-820d5283031c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fGRldmVsb3BlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
