@@ -92,18 +92,26 @@ div>h3 {
 }
 
 #projects{
+    height: 5rem;
+    width: 10rem;
     border: 2px solid white;
 }
 
 #clients {
-border: 2px solid white;
+    height: 5rem;
+    width: 10rem;  
+    border: 2px solid white;
 }
 
 #team-members {
+    height: 5rem;
+    width: 10rem;
     border: 2px solid white;
 }
 
 #awards {
+    height: 5rem;
+    width: 10rem;
     border: 2px solid white;
 }
 /* * {
