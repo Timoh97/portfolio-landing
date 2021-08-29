@@ -26,22 +26,22 @@
     width: 120%;
     height: 100%;
     background: linear-gradient(90deg,transparent 0%,rgb(19, 17, 17) 5%,rgb(19, 17, 17) 100%);
-    animation: animate 5.5s linear forwards;
-    animation-delay: 4s;
+    animation: animate 7s linear forwards;
+    animation-delay: 2s;
 }
 
 #intro-description span
 {
     color: #ff022c;
 }
-@keyframes animate{
+  @keyframes animate{
     0% {
         left: 110%;
     }
     100% {
         left: -20%;
     }
-}
+}  
 
 #pic1 { float: right;
     height: 350px; ;
@@ -68,8 +68,12 @@
     font-size: xx-large;
     font-weight: 700;
 }
+.about {
+    padding-top: 150px;
+    padding-left: 380px;
+}
 #about-me {
-    height: 500px;
+    height: 515px;
     width: 700px;
     border: 3px solid white;
     padding: 20px;
