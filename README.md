@@ -19,7 +19,7 @@ git commit -m "commit message"
 git push origin mmaster
 This moves work from local repository to remote.
 ## live link
-timoh97.github.io/portfolio-landing/
+https://timoh97.github.io/portfolio-landing/
 ## License
 MIT:*
 Copy right (c) 2021
