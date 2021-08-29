@@ -1,7 +1,7 @@
 # AUTHOR
 Timothy Mugendi
 ## Description
-This is a website that helps address health issues that need medical attention. It creates a prompt way of accessing health services and the best medics in a one stop thus making it convinient and the best way to keep private biodata secure and confidential.
+This my portfolio with my picture, job experience, skills, certifications, educational experience and about me section. All of these sections are well documented.
 ## Technologies used.
 HTML
 CSS
