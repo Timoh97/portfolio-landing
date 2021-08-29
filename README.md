@@ -5,6 +5,7 @@ This is a website that helps address health issues that need medical attention. 
 ## Technologies used.
 HTML
 CSS
+Bootstrap
 ## Known bugs.
 The site is responsive and working well
 ## Contact information.
@@ -16,7 +17,7 @@ git commit -m "commit message"
 git push origin mmaster
 This moves work from local repository to remote.
 ## live link
-https://timoh97.github.io/The-online-medics/
+
 ## License
 MIT:*
 Copy right (c) 2021
