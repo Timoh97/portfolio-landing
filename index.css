@@ -20,6 +20,19 @@ h2 {
     display: flex;
     justify-content: space-between;
 }
+.about {
+    padding-top: 50px;
+    padding-left: 10px;
+    flex-wrap: wrap;
+}
+#about-me {
+    height:100px;
+    width: 200px;
+    border: 3px solid white;
+    padding: 5px;
+    flex-wrap: wrap;
+
+}
 
 }
 
@@ -46,6 +59,8 @@ h2 {
     justify-content: space-between;
 }
 }
+
+
 
 
 
