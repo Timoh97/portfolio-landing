@@ -1,4 +1,59 @@
 
+@media (min-width :900px) {
+    .container {
+        max-width: 900px;
+    }
+h2 {
+    color: #ff022c;
+}
+
+#portfolio {
+    display: flex;
+    justify-content: space-between;
+}
+
+.portfolio- {
+    clip-path: circle();
+}
+#services1 {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+}
+
+
+@media (min-width :1500px) {
+    .container {
+        max-width: 1500px;
+    }
+h2 {
+    color: #ff022c;
+}
+
+#portfolio {
+    display: flex;
+    justify-content: space-between;
+}
+
+.portfolio- {
+    clip-path: circle();
+}
+#services1 {
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+}
+
+
+
+
+.container{
+border: 0.5px white;
+padding: 3px;
+}
 
 * {
     color: white;
